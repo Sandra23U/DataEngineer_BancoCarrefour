@@ -1,0 +1,12 @@
+
+#BancoCarrefour
+
+A empresa pretende contratar participantes que se destacarem durante o programa.
+"Valor Investe"
+
+'''
+
+Nossa atividade de crédito ao consumidor possui uma equipe de gestão qualificada e totalmente dedicada, com comprovada experiência neste ramo de atividade. Adotamos o que acreditamos ser as melhores práticas de gestão de riscos e análise de crédito, que foram reforçadas ainda mais pelo investimento do Itaú Unibanco no Banco Carrefour em 2012. Ter uma parceria com um dos maiores bancos do Brasil, e o principal operador de cartão de crédito ao consumidor no país, permite-nos ter acesso a seu know-how de análise de crédito e conhecimento do setor brasileiro de cartões de crédito.
+
+'''
+print ('Hello Banco Carrefour')
