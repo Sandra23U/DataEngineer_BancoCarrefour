@@ -16,3 +16,10 @@ CNN Bussines.
 
 
 
+
+https://user-images.githubusercontent.com/66983974/133519528-a9c4c656-8154-4fc5-89dc-3771944925ec.mp4
+
+
+
+
+
