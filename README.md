@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/66983974/133518004-c8f6ac3f-59f8-437a-9f6d-79252876bd9e.mp4
+
 # DataEngineer_BancoCarrefour
 " O sucesso é a soma de pequenos esforços repetidos dia após dia! Então, conquiste a si mesmo com o Banco Carrefour do Data Challenge".
 
