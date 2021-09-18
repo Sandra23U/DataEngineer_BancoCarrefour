@@ -1,12 +1,4 @@
 
-
-
-
-
-
-
-
-
 # DataEngineer_BancoCarrefour
 " O sucesso é a soma de pequenos esforços repetidos dia após dia! Então, conquiste a si mesmo com o Banco Carrefour do Data Challenge".
 
@@ -36,11 +28,12 @@ def título(txt):
     print('-'*30)
    
     
-    
 #Progama Principal
 
 título('   DataEngineer_BancoCarrefour    ')
+
 título('   Data Challange   ')
+
 título('   Sandra de Oliveira Souza   ')
 
 
