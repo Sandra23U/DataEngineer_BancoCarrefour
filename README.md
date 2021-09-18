@@ -4,7 +4,6 @@
 
 
 
-https://user-images.githubusercontent.com/66983974/133886607-b6ccf158-e598-426f-8052-61ed582d3058.mp4
 
 
 
@@ -19,6 +18,10 @@ O Bootcamp Banco Carrefour Data Engineer foi realizado em parceria com a Digital
 CNN Bussines.
 
 ![c1](https://user-images.githubusercontent.com/66983974/133509713-ada1b5b7-c504-4e9f-86ba-b35cd22dde27.jpg)
+
+
+https://user-images.githubusercontent.com/66983974/133886607-b6ccf158-e598-426f-8052-61ed582d3058.mp4
+
 
 
 
