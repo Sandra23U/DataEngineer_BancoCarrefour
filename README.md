@@ -13,9 +13,6 @@ CNN Bussines.
 
 
 
-[Certificado_BancoCarrefour (1).pdf](https://github.com/Sandra23U/DataEngineer_BancoCarrefour/files/7189898/Certificado_BancoCarrefour.1.pdf)
-
-
 
 
 https://user-images.githubusercontent.com/66983974/133886607-b6ccf158-e598-426f-8052-61ed582d3058.mp4
@@ -41,6 +38,9 @@ título('   DataEngineer_BancoCarrefour    ')
 título('   Data Challange   ')
 
 título('   Sandra de Oliveira Souza   ')
+
+
+
 
 
 
